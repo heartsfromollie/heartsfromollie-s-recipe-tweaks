@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ollierecipes:rflesh_to_leather"
+      }
+    }
+  },
+  "rewards": {
+    "function": "ollierecipes:rflesh_to_leather"
+  }
+}
